@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Muhammad-ameen356/muhammad-ameen356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-[![muhammad-ameen356 GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-ameen356)](https://github.com/muhammad-ameen356/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-ameen356&count_private=true&show_icons=true&bg_color=000&title_color=fff&text_color=FF5A00&icon_color=FFBC00&border_radius=10&border_color=FF5A00)](https://github.com/anuraghazra/github-readme-stats)
+
 
