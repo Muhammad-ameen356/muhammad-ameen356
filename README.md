@@ -4,6 +4,7 @@ I am a Web and mobile developer currently working in React,React native.I like t
 - 🔭 I’m currently working on 
 + #React,
 + #React Redux,
++ #Redux Toolkit,
 + #HTML,
 + #CSS,
 + #SCSS,
@@ -12,7 +13,7 @@ I am a Web and mobile developer currently working in React,React native.I like t
 + API
 + #React native,
 + #firebase,
-+ firestore
++ #firestore
 + #nosql,
 + #Web development,
 + #Mobile Development.
